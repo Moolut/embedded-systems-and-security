@@ -36,16 +36,3 @@ This assignment involves exploiting a timing side-channel vulnerability in a cus
 
 ---
 
-## 🛠 Tools and Technologies
-
-- XMC4500 Relax Kit (Infineon)
-- XMCLib / LUFA USB Stack
-- `libsodium` crypto library
-- C/C++, ARM toolchain, Makefiles
-- USB HID, Buffer Overflow Exploitation, Side-Channel Attacks
-
----
-
-## ⚠️ Disclaimer
-
-All assignments were completed in accordance with academic integrity guidelines and evaluated automatically via TUM’s Moodle-based grading infrastructure.
