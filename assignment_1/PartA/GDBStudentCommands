@@ -1,0 +1,2 @@
+display system_ticks
+break part_a.c:77

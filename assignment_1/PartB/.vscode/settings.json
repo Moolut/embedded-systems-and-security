@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"*.json": "json",
+		"xmc_common.h": "c",
+		"xmc4500.h": "c",
+		"xmc1_ccu4_map.h": "c",
+		"xmc_ccu4.h": "c",
+		"xmc_gpio.h": "c",
+		"xmc_scu.h": "c",
+		"string.h": "c"
+	}
+}

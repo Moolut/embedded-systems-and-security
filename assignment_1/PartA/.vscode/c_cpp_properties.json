@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/XMClib/XMC_Peripheral_Library_v2.1.16/XMCLib/inc/",
+                "/opt/XMClib/XMC_Peripheral_Library_v2.1.16/CMSIS/Infineon/XMC4500_series/Include/",
+                "/opt/XMClib/XMC_Peripheral_Library_v2.1.16/CMSIS/Include/"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/arm-none-eabi-gcc",
+            "configurationProvider": "ms-vscode.makefile.tools"
+        }
+    ],
+    "version": 4
+}
